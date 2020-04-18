@@ -46,7 +46,7 @@ let resumeData = {
         "CompanyName":"Trader Joe's",
         "specialization":"",
         "MonthOfLeaving":"Still Working",
-        "YearOfLeaving":"Still Working",
+        "YearOfLeaving":"",
         "Achievements":""
       },
       // {
