@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack developer",
     "linkedinId":"Isaac Aguirre",
     "skypeid": "Your skypeid",
-    "roleDescription": "I love learning about full stack development. In my free time i am working on new projects to add to my portfolio and improve on my skills.",
+    "roleDescription": "A full stack developer. I am constalntly trying to improve my programing skills. I enjoy learning new things about the topic. ",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently still enrolled into El Camino College, I took a semester off and did a coding bootcamp at the UCLA extension. There i learned the fundementals to being a full stack developer. I have lots of intrest in either front or backend work. I am eager to learn new technoligies, and I am still building on my portfolio with new projects",
+    "aboutme":"I am a full stack developer that finished a bootcamp at UCLA. I am currently looking for a role as a junior developer. I have a backround in customer service and management.",
     "address":"Torrance, CA",
     "website":"https://github.com/Isaac-Aguirre",
     "education":[
@@ -72,28 +72,23 @@ let resumeData = {
         "skillname": "Node.js"
       },
       {
-        "skillname": "Several node libraries"
+        "skillname": "Databases"
       }
     ],
     "portfolio":[
       {
-        "name":"",
-        "description":"",
+        "name":"Amazane",
+        "description":"A mock ecommerce website that includes all of the functionality of one",
         "imgurl":""
       },
       {
-        "name":"",
-        "description":"",
+        "name":"Fitness Tracker",
+        "description":"A website where you can keep track of a workout its length and the individual activites",
         "imgurl":""
       },
       {
-        "name":"",
-        "description":"",  
-        "imgurl":""
-      },
-      {
-        "name":"",
-        "description":"",
+        "name":"Budgeter",
+        "description":" A website that allows users to track there budget even if the servers are offline via local storage",  
         "imgurl":""
       }
     ],
